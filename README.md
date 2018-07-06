@@ -5,3 +5,4 @@ Comment propagated successfully - now try status change
 #Define acceptance did not work, although it was propagated
 Will try #Reject now
 Granted access to that repo to vkhozyainov. Now will try to comment under vkhozyainov username.
+Comment propagated OK. Now will try to change status to 'Acceptance criteria define' via #Define acceptance
