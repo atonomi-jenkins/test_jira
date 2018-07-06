@@ -9,3 +9,4 @@ Comment propagated OK. Now will try to change status to 'Acceptance criteria def
 #Define acceptance propagated, but did not effect a change. Will try #Reject now.
 Revoked OAuth issued from vkhozyainov - will webhooks still work? Also left only atonomi.io email.
 Made email address public. Testing comment now.
+Comment was added as comment in Jira!!!! Now #Define acceptance
